@@ -23,7 +23,7 @@
 ### Week 1: Project Setup & Dataset Exploration
 **Tasks**:
 - Set up GitHub repository with README.
-- Collect dataset from Kaggle or Google BigQuery.
+- Collect dataset from Kaggle
 - Conduct initial data exploration using Excel and Python.
 
 **Deliverables**:
