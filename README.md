@@ -11,7 +11,7 @@
 
 **Key Skills**: Time series forecasting, data manipulation, visualization, ETL
 
-**GitHub Repository**: [Link to GitHub Repo]
+**GitHub Repository**: [https://github.com/tom17001964/Retail-Demand-Forecasting-and-Inventory-Optimization]
 
 ---
 
