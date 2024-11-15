@@ -1,4 +1,4 @@
-# Please check back weekly to find updates to the project.
+#### Please check back weekly to find updates to the project.
 
 
 # Retail Demand Forecasting and Inventory Optimization
