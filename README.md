@@ -1,16 +1,4 @@
-#### Please check back weekly to find updates to the project.
-# Description:
-This project focuses on leveraging data analytics and machine learning to optimize inventory management in retail operations. Using historical sales data, the project builds a scalable pipeline to forecast demand, uncover trends, and generate actionable insights for inventory efficiency and cost reduction. By integrating advanced forecasting models and creating interactive dashboards, the project demonstrates the real-world impact of data-driven decision-making in retail.
-
-## Key Highlights**:
-
-  -**Scalability**: Processes massive datasets to replicate real-world retail scenarios.
-  -**AI/ML Applications**: Implements time series forecasting techniques, including ARIMA, Prophet, and neural networks like LSTM.
-  -**Business Focus**: Provides actionable insights to reduce overstock, prevent stockouts, and improve overall inventory management.
-  -**Tools**: Combines Python for data processing and modeling, Excel for EDA and reporting, and Power BI/Tableau for interactive visualization.
-  -**Practical Deliverables**: Weekly updates on GitHub with detailed documentation, performance metrics, and final dashboards.
-
-#
+# Retail Demand Forecasting and Inventory Optimization
 
 ## Overview
 **Goal**: Forecast retail demand and optimize inventory to enhance efficiency and cost savings.
@@ -23,7 +11,7 @@ This project focuses on leveraging data analytics and machine learning to optimi
 
 **Key Skills**: Time series forecasting, data manipulation, visualization, ETL
 
-**GitHub Repository**: [https://github.com/tom17001964/Retail-Demand-Forecasting-and-Inventory-Optimization]
+**GitHub Repository**: [Link to GitHub Repo]
 
 ---
 
@@ -32,7 +20,7 @@ This project focuses on leveraging data analytics and machine learning to optimi
 ### Week 1: Project Setup & Dataset Exploration
 **Tasks**:
 - Set up GitHub repository with README.
-- Collect dataset from Kaggle
+- Collect dataset from Kaggle or Google BigQuery.
 - Conduct initial data exploration using Excel and Python.
 
 **Deliverables**:
@@ -126,5 +114,6 @@ This project focuses on leveraging data analytics and machine learning to optimi
 ---
 
 ## Notes and Resources
-- [Data Sources](TBD)
-- [Useful Libraries](TBD)
+- [GitHub Repository](#)
+- [Data Sources](https://www.kaggle.com/datasets)
+- [Useful Libraries](https://docs.python.org/)
